@@ -4,5 +4,5 @@
  * 3. set POST method 
  * 4. set headers > content-type
  * 5. set body => JSON.stringify()
- * 6. On the Server Side: Don't Forget use express,json()
+ * 6. On the Server Side: Don't Forget use express,json() middle
 */
